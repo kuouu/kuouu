@@ -30,5 +30,5 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuouu&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=kuouu)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=kuouu)
 
