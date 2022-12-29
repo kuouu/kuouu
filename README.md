@@ -22,6 +22,10 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuouu&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=kuouu)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuouu&theme=dark)](https://git.io/streak-stats)![Top Langs](https://github-readme-stats.vercel.app/api?username=kuouu)
+
+---
+
+### :sunglasses: My Badge :
+[![An image of @kuouu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kuouu)](https://holopin.io/@kuouu)
 
